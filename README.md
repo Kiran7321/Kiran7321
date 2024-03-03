@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">My name is Sai Kommineni and I'm a Masters student from Melbourne, Australia</p>
+<p align="left">My name is Sai Kiran Kommineni and I'm a Masters student from Melbourne, Australia</p>
 
 ###
 

@@ -1,4 +1,5 @@
-<img align="right" height="200" src="https://github.com/Kiran7321/Kiran7321/blob/main/profilepic.gif"  />
+<img align="right" height="200" src="https://github.com/Kiran7321/Kiran7321/blob/main/profilepic.gif" style="border-radius: 50%;" />
+
 
 ###
 

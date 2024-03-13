@@ -74,7 +74,8 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Kiran7321/count.svg?"  />
+  <p>profile visits 👀</p>
+  <img src="https://profile-counter.glitch.me/Kiran7321/count.svg?" />
 </div>
 
 ###
